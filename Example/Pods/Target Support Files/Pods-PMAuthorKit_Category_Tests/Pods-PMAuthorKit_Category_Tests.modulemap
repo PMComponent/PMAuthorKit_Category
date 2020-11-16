@@ -1,0 +1,6 @@
+framework module Pods_PMAuthorKit_Category_Tests {
+  umbrella header "Pods-PMAuthorKit_Category_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
